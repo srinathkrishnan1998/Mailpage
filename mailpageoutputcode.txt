@@ -1,0 +1,420 @@
+<html>
+<head>
+<title>Page</title>
+<style>
+
+
+.backimg{
+background:black;
+width: 15%;
+height: 180px;
+left :0;
+
+float:justify;
+   
+ 
+
+}
+.backimg compose {
+  
+   padding: 5px 5px;
+  border: 1px solid black;
+   margin-left:50px;
+margin-right:20px;
+margin-top :30px;
+margin-bottom:100px;
+  font-size: 17px;
+  background:#FFA500;
+}
+.backimg p{
+
+
+display : inline-block;
+
+
+}
+.backimg q{
+padding: 0px 20px 0px 80px;
+display : inline;
+font-size:10px;
+color :white;
+}
+
+.sidebar{
+background: #484848;
+width: 15%;
+height: 460px;
+left:0;
+
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+.sidebar a{
+padding: 20px 20px 6px 16px;
+  text-decoration: none;
+  font-size: 15px;
+  color: white;
+  display: block;
+
+}
+.sidebar z{
+border-radius: 50%;
+ width: 10px;
+height: 10px;
+ padding: 8px;
+background: #fff;
+border: 1px solid #000;
+color: #000;
+text-align: center;
+ float : right;       
+}
+.sidebar z:hover{
+background: #FF4500;
+color: white;
+}
+.sidebar a:hover{
+background : white;
+color : black;
+}
+.lowbar{
+background: #505050;
+width: 15%;
+height: 50px;
+left :0;
+
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+.lowbar hr {
+height :20px;
+   
+display:inline-block;
+  }
+.middletab{
+ background : #DCDCDC;
+
+right:900px;
+left:235px;
+position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding :30px;
+
+  height :680px
+}
+.middletab v{
+ 
+  
+  color: #A9A9A9;
+  text-align: center;
+  padding: 0px 10px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+.middletab v:hover{
+background : #DCDCDC;
+color : black;
+}
+
+.middletab f {
+
+  overflow-x: auto;
+display: block;
+float :left;
+   
+}
+.middletab time {
+color: #A9A9A9;
+float: right;
+font-size :80%;
+   
+}
+
+
+.endtab{
+background: white;
+right:0px;
+
+width :870;
+ height :700px;
+position: fixed;
+  z-index: 1;
+  top: 0;
+  
+padding :20px;
+}
+.endtab m {
+border-radius: 50%;
+        width:  1px;
+        height:5px;
+       
+        background: #fff;
+        border: 1px solid #000;
+        color: #000;
+        text-align: center;
+      
+
+
+}
+.endtab input[type=text] {
+  float: right;
+  padding: 6px;
+  border: 1px solid black;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+.endtab j{
+  text-align: left;
+
+  float: left;
+  padding: 0px 20px;
+  text-decoration: none;
+
+display:inline-block;
+
+}
+.endtab v {
+  border-left: 2px solid green;
+  height: 70px;
+ display:inline-block;
+
+  bottom :0;
+  top: 0;
+}
+
+.endtab time {
+color: #A9A9A9;
+float: right;
+  padding: 0px 0px 0px 200px;
+font-size :80%;
+  
+}
+.endtab x{
+
+  overflow-x: auto;
+display: inline;
+float :left;
+line-height :2;
+
+   
+}
+.endtab y{
+display: inline-block;
+ border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: solid;
+  border-left-style: none;
+width :100%;
+}
+.endtab sendbox {
+  float:right;
+  padding: 10px 20px;
+  border: 1px solid black;
+  margin-top: 8px;
+  margin-right: 8px;
+  font-size: 17px;
+  background:#FFA500;
+}
+</style>
+</head>
+<body>
+<div class="backimg">
+<br/>
+<p style="font-size:130%;color: white;padding:0px 40px 0px 60px;display:inline">VIKRAM </p>
+<br/>
+
+<p style="font-size:100%;color: white;padding:0px 40px 0px 60px;display:inline">Software developer</p>
+<br/>
+<br/><br/><br/>
+<br/>
+<compose>COMPOSE</compose>
+</div>
+<div class="sidebar">
+<z>1</z>
+<a>INBOX</a>
+<z>4</z>
+<a>SENT</a>
+<a>DRAFT</a>
+<a>SPAN</a>
+<z>5</z>
+<a>TRASH</a>
+<a>MESSAGE</a>
+<a>TAGS</a>
+
+</div>
+<div class="lowbar">
+<center>
+<img src="F:\power updated final.png" style="display:inline-block;"/>
+<hr>
+<img src="F:\settings icon rr final.png" style="display:inline-block;"/>
+
+</center>
+
+</div>
+
+
+<div class="middletab">
+
+<v>All</v>
+
+<v>Most Recent</v>
+
+<v>Unread</v>
+<br/>
+<br/>
+<hr>
+<f style="font-size:100%;color: black;">Stephan Bernard</f>
+<time>10:24 PM</time>
+<br/>
+<f style="font-size:80%;color: #A9A9A9;">Available for windows and mac.!</f>
+<br/><br/>
+<f style="font-size:100%;color: black;">Kate Brokkie</f>
+<time>10:00 PM</time>
+<br/>
+<f style="font-size:80%;color: #A9A9A9;">Welcome to our news letter!Here is  10 off for you</f>
+<br/><br/>
+<f style="font-size:100%;color: black;">Kennel Bawasar</f>
+<time>8th Dec</time>
+<br/>
+<f style="font-size:80%;color: #A9A9A9;">My amazing trip to Australia</f>
+<br/><br/>
+<f style="font-size:100%;color: black;">Ken Shamrac</f>
+<time>5th Dec</time>
+<br/>
+<f style="font-size:80%;color: #A9A9A9;">Best customer like you get free lunch..</f>
+<br/><br/>
+<f style="font-size:100%;color: black;">Refco Financial Services</f>
+<time>3th Dec</time>
+<br/>
+<f style="font-size:80%;color: #A9A9A9;">Final remainder for complimentary entry</f>
+<br/><br/>
+<f style="font-size:100%;color: black;">Axis Bank</f>
+<time>3th Dec</time>
+<br/>
+<f style="font-size:80%;color: #A9A9A9;">Monthly Statement</f>
+<br/><br/>
+<f style="font-size:100%;color: black;">Bill Stainer</f>
+<time>1st Dec</time>
+<br/>
+<f style="font-size:80%;color: #A9A9A9;">Case study :Candy </f>
+<br/><br/>
+<f style="font-size:100%;color: black;">Stephen</f>
+<time>1st Dec</time>
+<br/>
+<f style="font-size:80%;color: #A9A9A9;">Using ecommerce Data  to grow Email Revenue </f>
+<br/><br/>
+<f style="font-size:100%;color: black;">john.smith@gmail.com</f>
+<time>25th Nov</time>
+<br/>
+<f style="font-size:80%;color: #A9A9A9;">Have a nice trip to Australia </f>
+<br/><br/>
+<f style="font-size:100%;color: black;">Maria Wilson</f>
+<time>24th Nov</time>
+<br/>
+<f style="font-size:80%;color: #A9A9A9;">How to maximize holiday with  a big splenders..</f>
+<br/><br/>
+<f style="font-size:100%;color: black;">Vince Wilam</f>
+<time>22nd Nov</time>
+<br/>
+<f style="font-size:80%;color: #A9A9A9;">2012 Retention market report</f>
+<br/><br/>
+<f style="font-size:100%;color: black;">Frank Cook</f>
+<time>22nd Nov</time>
+<br/>
+<f style="font-size:80%;color: #A9A9A9;">Download the case study today!</f>
+<br/><br/>
+<f style="font-size:100%;color: black;">Steven Fleming</f>
+<time>22nd Nov</time>
+<br/>
+<f style="font-size:80%;color: #A9A9A9;">Reduce Open with subject Line</f>
+<br/><br/>
+
+
+
+</div>
+
+
+
+
+
+<div class="endtab">
+<left>
+
+<m><img src="F:\reply all finals.png" style="display:inline-block;"/></m>
+<m><img src="F:\forward finals.png" style="display:inline-block;"/></m>
+<m><img src="F:\like finals.png" style="display:inline-block;"/></m>
+<m><img src="F:\closefinals.png" style="display:inline-block;"/></m>
+
+</left>
+ <input type="text" placeholder="Your Keyword...">
+<br/><br/>
+<hr>
+<br/>
+<y>
+<j><img src="F:\logofinal.png" style="display:inline-block;"/></j>
+<j style="font-size:100%;color: black;">Kennel Bawasar
+<br/>
+<j style="font-size:80%;color: #A9A9A9;">Product Developer
+</j></j>
+<v/>
+<j style="font-size:100%;color: black;">My Amazing trip to Australia
+<br/>
+<j style="font-size:80%;color: #A9A9A9;">To:Me,Ali,james@gmail.com
+</j></j>
+<time style="float:right;">8th December 2021 | 10.30 PM</time>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</y>
+<br/>
+
+<br/>
+<x style="font-size:100%;color: black;">Hi Eric,</x>
+
+<br/>
+<br/>
+<y>
+<x style="font-size:130%;color: blue;">There are things that i love and hate on Aussie Food.</x>
+<br/>
+<x style="font-size:100%;color: black;">Being American,i love hamburger and lack of quality mexican food.Ilove the amount of Asian resturants available  in the cities,and you can take me out for a pub dinner any day of the week.My facination with Australia started young  and was probably enhanced as a tween
+when i fell in love with  silverchair .I always thought it sounded like an exotic place to travel and you nerver meet an aussie travelling that doesn't lovee their home country.</x>
+
+<br/>
+<br/>
+<x style="font-size:110%;color: black;">Thank you,
+
+<br/>
+Kenil Bhawasar</x>
+<br/>
+<br/>
+</y>
+<br/>
+<y>
+<x style="font-size:130%;color: blue;">Attachment
+<br/>
+<x style="font-size:80%;color: black;">myphoto.jpg | australiatrip.ppt</x></x>
+</y>
+<br/><br/>
+ <input style="padding: 10px 430px;float:left;" type="text" placeholder="Enter your Reply here..">
+
+<br>
+<sendbox>SEND</sendbox>
+</div>
+
+
+
+
+
+
+</body>
+</html>
